@@ -1,5 +1,8 @@
-# Fast_Approximate_String_Matching_Suffix_Arrays
-In this Project I did string Matching using a method similar too amta2010  Fast_Approximate_String_Matching_with_Suffix_Arrays_and_A_Parsing
+# Fast Approximate String Matching Suffix_Arrays
 
-Test Files are sample corpora i find online
-resuts are returned to text file in the form of lists
+Finding Approcimate Strings from a large text file
+
+Similar to :
+  # amta2010  
+  # Fast_Approximate_String_Matching_with_Suffix_Arrays_and_A_Parsing
+
